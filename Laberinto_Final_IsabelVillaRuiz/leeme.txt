@@ -1,0 +1,34 @@
+*************************LABERINTO************************Isabel_Villa_Ruiz*****
+
+___________MOVILIDAD____________________________________________________________
+
+A-S-W-D  Controles de la cámara.
+T -- Cámara Aérea
+E -- Cámara en 3º Persona
+
+__________OBJETIVO______________________________________________________________
+
+Dispone de 6 Niveles a completar.
+
+Por cada nivel que completas, ganas puntos según el tiempo que te ha sobrado.
+
+Si pierdes vuelves a empezar.
+
+
+__________FUNCIONES_____________________________________________________________
+
+-Texturas combinadas,en suelo y paredes.
+    -Por cada nivel cambia de textura de suelo y pared combinadas.
+-Niebla de suelo.
+    -Por cada nivel cambia de color.
+-Luz Ambiental.
+    -Se dispone de luz ambiental en los 6 niveles
+-Niveles
+    -Se dispone de -6 niveles a completar
+-Puntos
+    -Se acumulan los segundos acumulados restantes de cada nivel.
+-Cámaras:
+    -Cámara en 1º persona 
+    -Cámara en 3º persona 
+    -Cámara aérea.
+

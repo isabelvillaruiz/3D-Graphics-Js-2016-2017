@@ -1,0 +1,35 @@
+<html>
+<body>
+<script src="game1.js"></script>
+
+<font color="purple">
+<h2>  HANGMAN GAME</h2>
+</font>
+
+<img id="myImage"  src="hangmanempty.png" width="200" height="180">
+
+<font color="blue">
+<h4> Guess the word</h4>
+</font>
+
+<h3 id="empty_letters"></h3>
+
+<p id="trying"></p>
+
+
+<input id="letter">
+<button type="button" onclick="comparar()"> <font color="navy"> Try letter
+</font>
+</button>
+
+<font color="red">
+<button  type="button" onclick="document.location.reload();"> REBOOT
+</font>
+</button>
+<font color="yellow">
+<h1 id="lost"></h1>
+<h1 id="win"></h1>
+</font>
+
+</body>
+</html>

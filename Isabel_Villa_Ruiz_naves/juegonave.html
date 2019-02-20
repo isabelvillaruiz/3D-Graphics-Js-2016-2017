@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2 id="VIDAS"> Te quedan: 6 Vidas</h2>
+<meta charset="UTF-8">
+<style>
+  h2 {
+    margin-left: 150px;
+    align-content: center;
+    text-align: justify;
+    font-family:georgia;
+    font-weight: normal;
+    color: white;
+    font-style: italic;
+    text-overflow: ellipsis;
+  }
+  canvas{
+    margin-left: 80px;
+  }
+</style>
+<script src="juegonave.js"></script>
+
+</head>
+
+<body onkeydown="whichButton(event)" onload="main()" background="fondo10.jpg" >
+  <img id="ima" src="nuevanave6.png" height="40px"  />
+<canvas id="myCanvas" width="1000" height="500" style="border:10px solid #AFEEEE">
+Tu navegador no soporta canvas</canvas>
+
+</body>
+
+</html>
